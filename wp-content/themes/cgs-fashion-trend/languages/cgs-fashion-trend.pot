@@ -1,0 +1,210 @@
+# Copyright (C) 2019 CGS Fashion Trend Theme, CGS Themes
+# This file is distributed under the same license as the CGS Fashion Trend Theme package.
+# CGS Themes <info@cgsthemes.com>, 2019.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: CGS Fashion Trend\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-04-29 18:17+0530\n"
+"PO-Revision-Date: 2019-04-29 19:39+0530\n"
+"Last-Translator: CGS Themes <info@cgsthemes.com>\n"
+"Language-Team: LANGUAGE <info@cgsthemes.com>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: 404.php:6
+msgid "Oops! That page couldn't be found"
+msgstr ""
+
+#: 404.php:7
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: archive.php:9
+msgid "Daily Archives:"
+msgstr ""
+
+#: archive.php:12
+msgid "Monthly Archives:"
+msgstr ""
+
+#: archive.php:12
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: archive.php:15
+msgid "Yearly Archives:"
+msgstr ""
+
+#: archive.php:15
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: archive.php:17
+msgid "Blog Archives"
+msgstr ""
+
+#: archive.php:41 category.php:27 tag.php:35
+msgid "Back"
+msgstr ""
+
+#: archive.php:42 category.php:28 tag.php:36
+msgid "Next"
+msgstr ""
+
+#: archive.php:43 category.php:29 tag.php:37
+msgid "Posts"
+msgstr ""
+
+#: category.php:6
+msgid "Category:"
+msgstr ""
+
+#: category.php:35 index.php:19 single.php:31 tag.php:43
+msgid "Posts not found"
+msgstr ""
+
+#: comments.php:19
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#: comments.php:25
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:50
+msgid "Comments are closed."
+msgstr ""
+
+#: content.php:6 content.php:15
+msgid "by"
+msgstr ""
+
+#: content.php:6 content.php:15
+msgid "Posts by admin"
+msgstr ""
+
+#: customizer.php:14
+msgid "Link color"
+msgstr ""
+
+#: customizer.php:31
+msgid "Button color"
+msgstr ""
+
+#: customizer.php:48
+msgid "H1 Tag Color"
+msgstr ""
+
+#: customizer.php:65
+msgid "H2 Tag Color"
+msgstr ""
+
+#: customizer.php:82
+msgid "H3 Tag Color"
+msgstr ""
+
+#: customizer.php:99
+msgid "H4 Tag Color"
+msgstr ""
+
+#: customizer.php:116
+msgid "P Tag Color"
+msgstr ""
+
+#: customizer.php:131
+msgid "Upload image on header banner"
+msgstr ""
+
+#: customizer.php:132
+msgid "Image Size should be <strong>490px X 690px</strong>"
+msgstr ""
+
+#: customizer.php:146 customizer.php:161
+msgid "Header text on banner"
+msgstr ""
+
+#: customizer.php:175
+msgid "Display banner in inner-pages"
+msgstr ""
+
+#: customizer.php:179
+msgid "Please select"
+msgstr ""
+
+#: customizer.php:180
+msgid "Yes"
+msgstr ""
+
+#: customizer.php:181
+msgid "No"
+msgstr ""
+
+#: functions.php:30
+msgid "Main Menu"
+msgstr ""
+
+#: functions.php:76
+msgid "Primary Sidebar"
+msgstr ""
+
+#: functions.php:92
+msgid "CGS Themes"
+msgstr ""
+
+#: functions.php:92
+msgid "CGS Fashion Trend"
+msgstr ""
+
+#: functions.php:95
+#, php-format
+msgid "Copyright &copy; %1$s %2$s. Theme: %3$s By CGS Themes."
+msgstr ""
+
+#: index.php:14
+msgid "Older posts"
+msgstr ""
+
+#: index.php:15
+msgid "Newer posts"
+msgstr ""
+
+#: search.php:9
+msgid "Search results for"
+msgstr ""
+
+#: search.php:28
+msgid "Pages:"
+msgstr ""
+
+#: search.php:32
+msgid "Page"
+msgstr ""
+
+#: search.php:40
+msgid "No results for "
+msgstr ""
+
+#: searchform.php:3
+msgid "Search"
+msgstr ""
+
+#: tag.php:6
+msgid "Tag:"
+msgstr ""
+
+#: tag.php:24
+msgid "Tags:"
+msgstr ""
